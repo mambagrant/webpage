@@ -200,7 +200,9 @@
     }
 }
 
-.portfolio_details_area {}
+.text_area ul {
+    list-style-type: square; padding-left: 15px;
+}
 
 .portfolio_details_inner {
     .row {
