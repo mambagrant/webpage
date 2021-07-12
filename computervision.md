@@ -12,7 +12,7 @@ We live in a world, where computers can automatically recognize people on camera
 
 The aim of the proposed programmer position is to develop instrument control software for the ALSA device. ALSA should be able to read and analyse the image from several industrial cameras to identify crystal positions. Then grab the crystals using robotic arm Mecademic Meca500 and put them to the X-Ray beam. Afterwards, reciprocal image from Laue machine will be evaluated and crystallographic orientation of the sample will be determined. Last step will be to glue the crystal to the aluminium plate – again using robotic arm.
 
-In addition to the software development, it is possible to write a Bachelor or Master thesis about it.
+In addition to the software development, it is possible to write a thesis or software project about it.
 
 ### What Awaits you here?
 
