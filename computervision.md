@@ -21,7 +21,7 @@ It is possible to perform this software development as part of a thesis or softw
 - Your software will be used for excellent condensed matter research.
 {: .mb-3}
 
-### Position requirements (not all are necessary)
+### What we expcet? (not all is necessary)
 
  - Advanced knowledge of Python.
  - Experience with computer vision (OpenCV).

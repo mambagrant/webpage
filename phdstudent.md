@@ -23,7 +23,7 @@ In addition to the device construction and testing, doctoral student will prepar
  - You will work on Charles university - one of the oldest universities in the world.
 {: .mb-3}
 
-### Position requirements (not all are necessary)
+### What we expect? (not all is necessary)
 
  - Master in condensed matter physics/material science.
  - Knowledge of Python.
