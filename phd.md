@@ -19,7 +19,7 @@ The thesis will be supervised by two young scientists: [Petr Čermák](https://c
 
 ## What’s the project?
 
-The search for quantum spin liquids has identified spin-½ Kagome lattices with nearest-neighbor antiferromagnetic Heisenberg coupling as prime candidates for hosting this new state of matter.  However, many of the materials with such a magnetic structure exist only in natural minerals.
+The search for quantum spin liquids has identified spin-½ Kagome lattices with nearest-neighbor antiferromagnetic Heisenberg coupling as prime candidates for hosting this new state of matter. However, many of the materials with such a magnetic structure exist only in natural minerals.
 
 Inelastic neutron scattering is an indispensable tool to investigate the (magnetic) ground states of matter, making it one of the key techniques used in identifying quantum spin liquids. However many of the materials proposed to host this new state of matter do not produce large enough crystals for inelastic neutron scattering studies. It would therefore be necessary to co-align several hundreds of crystals to create a suitable sample. Such alignment processes can take up to several months and require a lot of manpower. We will accomplish this formidable task using the newly constructed state-of-the-art instrument [ALSA](http://mambaproject.cz/alsa) which will automatize the coalignment process using artificial intelligence.
 
