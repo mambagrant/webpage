@@ -9,7 +9,7 @@ layout: default
                   <h2>{{ page.title }}</h2>
                   <div class="page_link">
                       <a href="/">Home</a>
-                      <a href="/alsa">ALSA</a>
+                      <a href="{{ page.url }}">{{ page.title }}</a>
                   </div>
               </div>
           </div>
@@ -23,11 +23,11 @@ layout: default
           <div class="portfolio_details_inner">
             <div class="row">
                 <div class="col-lg-7 mb-4 mb-lg-0">
-                    tbd
+                    {{ content }}
                 </div>
                 <div class="col-lg-5">
                 <div class="portfolio_right_text mt-30">
-                    <h4 class="text-uppercase">ALSA at a glance Info</h4>
+                    <h4>ALSA at a glance</h4>
                     <p>
                         <i>Automatic Laue Sample Aligner</i>
                     </p>
