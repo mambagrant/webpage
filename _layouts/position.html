@@ -76,7 +76,7 @@ headscript: |
                         </div>
                         
                         <div class="form-group row">
-                            <label class="col-sm-12 col-form-label">Referees</label>
+                            <label class="col-sm-12 col-form-label">References</label>
                             <div class="form-row">
                                 <div class="col">
                                 <input type="text" name="ref1name" class="form-control" placeholder="Referee 1"  required="">
@@ -105,7 +105,7 @@ headscript: |
                         </div>
                         <div class="form-group row">
                             <label for="letter" class="col-sm-5 col-form-label">Motivation letter</label>
-                            <div class="col-sm-7">
+                            <div class="col-sm-7 text-right">
                                 <input type="text" style="display:none" required="" id="letter" name="letter" role="uploadcare-uploader" data-file-types="pdf"  />
                                 <div class="invalid-feedback" id="lettererror">
                                     You need to upload Motivation letter.
@@ -118,7 +118,7 @@ headscript: |
                         </div>
                         <div class="form-group row">
                             <label for="cv" class="col-sm-5 col-form-label">CV</label>
-                            <div class="col-sm-7">
+                            <div class="col-sm-7 text-right">
                                 <input type="text" style="display:none" required="" id="cv" name="cv" role="uploadcare-uploader" data-file-types="pdf" />
                                 <div class="invalid-feedback" id="cverror">
                                     You need to upload your CV.
@@ -131,7 +131,7 @@ headscript: |
                         </div>
                         <div class="form-group row">
                             <input type="checkbox" name="signin" style="display:none" tabindex="-1" autocomplete="off" />    
-                            <button id="button" type="submit" class="btn btn-primary">Send application</button>
+                            <button id="button" type="submit" class="btn btn-primary mx-auto">Send application</button>
                         </div>
                       </form>
                       <script>
