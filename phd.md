@@ -23,7 +23,7 @@ The search for quantum spin liquids has identified spin-½ Kagome lattices with 
 
 Inelastic neutron scattering is an indispensable tool to investigate the (magnetic) ground states of matter, making it one of the key techniques used in identifying quantum spin liquids. However many of the materials proposed to host this new state of matter do not produce large enough crystals for inelastic neutron scattering studies. It would therefore be necessary to co-align several hundreds of crystals to create a suitable sample. Such alignment processes can take up to several months and require a lot of manpower. We will accomplish this formidable task using the newly constructed state-of-the-art instrument [ALSA](http://mambaproject.cz/alsa) which will automatize the coalignment process using artificial intelligence.
 
-After careful co-alignment with ALSA we will use quasi- and inelastic neutron scattering to investigate the samples. In particular we will use the spin-echo spectrometer RESEDA. RESEDA combines the extremely high resolution of spin-echo spectrometers with the possibility for large applied magnetic fields needed to study quantum fluctuations.
+After careful co-alignment with **ALSA** we will use quasi- and inelastic neutron scattering to investigate the samples. In particular we will use the spin-echo spectrometer **RESEDA**. RESEDA combines the extremely high resolution of spin-echo spectrometers with the possibility for large applied magnetic fields needed to study quantum fluctuations.
 
 ## Your profile?
 
