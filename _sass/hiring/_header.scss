@@ -44,6 +44,15 @@
                         .nav-link {
                             line-height: 70px;
                         }
+                        .nav-white {
+                            color: $title-color;
+                        }
+                        &:hover,
+                        &.active {
+                            .nav-white {
+                                color: $active-link;
+                            }
+                        }
                     }
                 }
             }
@@ -69,6 +78,9 @@
                 &:after {
                     display: none;
                 }
+            }
+            .nav-white {
+                color: #fff;
             }
             &:hover,
             &.active {
