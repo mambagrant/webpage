@@ -1,7 +1,8 @@
 ---
 layout: position
-title: "Cross-border PhD position: neutron scattering on quantum materials"
-subtitle: "Magnetism expert with knowledge of neutron scattering and interrest in quantum fluctuations."
+title: "Cross-border PhD position:"
+subtitle: Neutron scattering on quantum materials
+onesentence: "Magnetism expert with knowledge of neutron scattering and interrest in quantum fluctuations."
 formurl: https://submit-form.com/gzy0GAyG
 info: |
    <li><span>Deadline</span>: 4th March 2022</li>

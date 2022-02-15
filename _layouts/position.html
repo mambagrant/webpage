@@ -14,6 +14,7 @@ headscript: |
           <div class="container">
               <div class="banner_content text-center">
                   <h2>{{ page.title }}</h2>
+                  {% if page.subtitle %}<h3>{{ page.subtitle }}</h3>{% endif %}
                   <div class="page_link">
                       <a href="/">Home</a>
                       <a href="/#hiring">Hiring</a>
@@ -36,7 +37,7 @@ headscript: |
                 <div class="portfolio_right_text mt-30">
                     <h4 class="text-uppercase">Position Info</h4>
                     <p>
-                        <i>{{ page.subtitle }}</i>
+                        <i>{{ page.onesentence }}</i>
                     </p>
                     <ul class="list">
                         {{ page.info }}

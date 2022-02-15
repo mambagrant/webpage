@@ -7,6 +7,7 @@ layout: default
           <div class="container">
               <div class="banner_content text-center">
                   <h2>{{ page.title }}</h2>
+                  {% if page.subtitle %}<h3>{{ page.subtitle }}</h3>{% endif %}
                   <div class="page_link">
                       <a href="/">Home</a>
                       <a href="{{ page.url }}">{{ page.title }}</a>
