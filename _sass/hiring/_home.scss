@@ -252,6 +252,17 @@
             }
         }
     }
+    .gallery {
+        padding: 30px;
+        background: $offwhite;
+        margin-top: 30px;
+        img {
+            margin-bottom: 30px;
+            &:last-child {
+                margin-bottom: 0px;
+            }
+        }
+    }
 }
 
 /* End Portfolio Area css
