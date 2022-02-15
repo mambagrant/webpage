@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ALSA
+logo: logo-alsa-web.png
 subtitle: Automatic Laue Sample Aligner
 ---
 # Game changer in neutron scattering
