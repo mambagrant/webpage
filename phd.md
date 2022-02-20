@@ -14,7 +14,7 @@ info: |
 
 ## Who are we?
 
-We are the Magnetism Group at the Department of Condensed Matter Physics of Charles University. Our research topics are for example frustrated magnets, layered van der Waals materials or magnetoelastic hybridization. We have access to a lot of material growth and characterization techniques (such as 20T magnet, laser furnace, SSE and many more) as a part of MGML research infrastructure.
+We are the Magnetism Group at the Department of Condensed Matter Physics of Charles University. Our research topics are for example frustrated magnets, layered van der Waals materials or magnetoelastic hybridization. We have access to a lot of material growth and characterization techniques (such as 20T magnet, laser furnace, SSE and many more) as a part of [MGML](https://mgml.eu/) research infrastructure.
 
 The thesis will be supervised by two young scientists: [Petr Čermák](https://cermak.science/) in Prague (PI of the MaMBA project funded by the [Czech Science Foundation](https://gacr.cz/en/)) and [Johanna K. Jochum](https://twitter.com/johannaphys) in Garching (instrument scientist of the spin-echo spectrometer [RESEDA](https://mlz-garching.de/reseda)).
 
