@@ -46,7 +46,7 @@ After careful co-alignment with **ALSA** we will use quasi- and inelastic neutro
 ## What we are offering:
 
  - **3 years full-time position** with flexible working hours (starting May 2022). \\
-   Two 2 years will be spent in Prague while one year will be spent at the Technical University of Munich to study neutron scattering techniques and do scattering experiments.
+   Two years will be spent in Prague while one year will be spent at the Technical University of Munich to study neutron scattering techniques and do scattering experiments.
  - Work on a long-term project in collaboration with excellent scientists.
  - Modern offices in the center of Prague, Czech Republic — the heart of Europe.
  - Full funding is available to the candidates from all over the world. 
