@@ -42,7 +42,18 @@ headscript: |
                     <ul class="list">
                         {{ page.info }}
                     </ul>
-                </div>          
+                </div>    
+                {% if page.appformlink %}      
+                <div class="portfolio_right_text mt-30">
+                    <h4 class="text-uppercase">How to apply?</h4>
+                    <p>Please follow the official procedure described on the <a href="{{ page.appformlink }}">university webpage</a>.
+                        ID of the position is {{ page.posid }}.
+                    </p>
+                    <p>
+                        In case of further questions, you can&nbsp;<a href="tel:+420737202190">call</a>&nbsp;or write an <a href="mailto:petr.cermak@matfyz.cuni.cz">e-mail</a> to&nbsp;Petr.
+                    </p>
+                </div>
+                {% else %}
                 <div class="portfolio_right_text mt-30">
                     <h4 class="text-uppercase">Application form</h4>
                     <form id="form" class="needs-validation" action="{{ page.formurl | default: 'https://submit-form.com/echo' }}" data-botpoison-public-key="pk_a2e52fac-b9a5-49ef-bca0-70fd0e2c5e60" novalidate>
@@ -164,6 +175,7 @@ headscript: |
                         In case of further questions, you can&nbsp; <a href="tel:+420737202190">call us</a>&nbsp;or write an e-mail to&nbsp;<a href="mailto:cermak@mag.mff.cuni.cz">Petr</a>&nbsp;or&nbsp;<a href="mailto:jjochum@frm2.tum.de">Johanna</a>.
                     </div>
                 </div>
+                {% endif %}
             </div>
             </div>
             
