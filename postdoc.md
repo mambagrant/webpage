@@ -15,7 +15,7 @@ posid:  202209-PD-KFKL
 
 ## Who are we?
 
-We are the Magnetism Group at the Department of Condensed Matter Physics of Charles University. Our research topics are for example frustrated magnets, layered van der Waals materials or magnetoelastic hybridization. We have access to a lot of material growth and characterization techniques (such as 20T magnet, laser furnace, SSE and many more) as a part of [MGML](https://mgml.eu/) research infrastructure. This work will be done in the group of [Petr Čermák](https://cermak.science/).
+We are the Magnetism Group at the Department of Condensed Matter Physics of Charles University. Our research topics are for example frustrated magnets, layered van der Waals materials or magnetoelastic hybridization. We have access to a lot of material growth and characterization techniques (such as 20T magnet, laser furnace, SSE and many more) as part of the [MGML](https://mgml.eu/) research infrastructure. This work will be done in the group of [Petr Čermák](https://cermak.science/).
 
 ## What’s the project?
 
@@ -26,8 +26,8 @@ Some proposed materials do not produce large enough crystals for inelastic neutr
 ## Your profile?
 
  - Ph.D. degree (or equivalent) in a relevant area. 
- - Experienced in inelastic (neutron) scattering, lattice vibrations, low dimensional magnetism, and group theory analysis. 
- - Experience with the large-scale infrastructures (TAS and TOF instruments)
+ - Familiar with lattice vibrations, low dimensional magnetism, and group theory analysis. 
+ - Experience with the inelastic neutron scattering (TAS and TOF instruments)
  - Knowledge of Python.
  - Ability to work in a team as well as on its own.
  - Ability to work well under pressure in a fast-developing environment.
@@ -36,7 +36,7 @@ Some proposed materials do not produce large enough crystals for inelastic neutr
 ## What we are offering:
 
  - **3 years full-time position** with flexible working hours (starting January 2023).
- - Competitive sallary.
+ - Competitive salary.
  - Work on a long-term project in collaboration with excellent scientists.
  - Modern offices in the center of Prague, Czech Republic — the heart of Europe.
  - Full funding is available to the candidates from all over the world. 
